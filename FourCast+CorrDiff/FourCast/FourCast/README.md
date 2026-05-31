@@ -33,8 +33,8 @@ ERA5 Data
 ## Status
 
 - [x] Repository Structure
-- [ ] Dataset Integration
-- [ ] Model Architecture
-- [ ] Configuration Files
-- [ ] Forecast Generation
+- [x] Dataset Integration
+- [x] Model Architecture
+- [x] Configuration Files
+- [x] Forecast Generation
 - [ ] Evaluation
