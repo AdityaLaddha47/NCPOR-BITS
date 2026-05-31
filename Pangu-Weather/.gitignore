@@ -1,0 +1,12 @@
+# Ignore massive AI weights
+*.onnx
+
+# Ignore weather data tensors
+*.grib
+*.idx
+*.nc
+
+# Ignore Mac system files
+.DS_Store
+__pycache__/
+
