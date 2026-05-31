@@ -1,0 +1,2 @@
+class BaselineCNN:
+    pass
